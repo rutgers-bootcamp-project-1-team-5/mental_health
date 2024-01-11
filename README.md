@@ -1,6 +1,6 @@
 # mental_health
 Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make healthy choices. This project is to explore prevalence of different mental disorder for some wealthiest and some poorest countries. 
-We are also exploring Disability adjusted life years for same countries as well. We have demonstrated use of BAR plot, line plot and T-test for analysing data. 
+We are also exploring Disability adjusted life years for same countries as well. We have demonstrated use of BAR plot, line plot and T-test for analyzing data. 
 
 1. Dependencies and setup- Importing modules and libraries
 2. Reading Data sets/csv file
