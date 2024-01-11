@@ -2,13 +2,22 @@
 Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make healthy choices. This project is to explore prevalence of different mental disorder for some wealthiest and some poorest countries. 
 We are also exploring Disability adjusted life years for same countries as well. We have demonstrated use of BAR plot, line plot and T-test for analyzing data. 
 
+Before starting to code we did dataset cleanup:
+Check for any null values. 
+Check for min and max values
+Find any outliers
+Drop null and outliers from the dataset
+
+
+Jupyter notebook follows following sequence of code:
 1. Dependencies and setup- Importing modules and libraries
 2. Reading Data sets/csv file
 3. Plotting DALYs as a Result of Mental Disorders by Country
 4. Plotting linear regression relation between Disability adjusted life years vs years for choosen countries.
 5. Plotting percentage of population by different mental disorder for several countries
-6.Plotting trend of %population with disorders by countries
-7. Calculation of T-test for schizohprenia, Bipolar disorder, Eating disorders, Anxiety disorders, Drug use disorders, Depressive disorders, Alcohol use disorders and Disability-Adjusted Life Years for US and UK to compare the results.
+6. Calculation of T-test for schizohprenia, Bipolar disorder, Eating disorders, Anxiety disorders, Drug use disorders, Depressive disorders, Alcohol use disorders and Disability-Adjusted Life Years for US and UK to compare the results.
+7. Checking for top increasing disorder and top decreasing disorder by the country.
+8.  Plotting trend of %population with disorders by countries
 
 # We have demonstarted Use of API to fetch kitten Images in the code.
 url used: https://api.thecatapi.com
