@@ -18,8 +18,8 @@ Drop null and outliers from the dataset
 1. Dependencies and setup- Importing modules and libraries
 2. Reading Data sets/csv file
 3. Plot a map to visually inspect DALY(Disability adjusted life years)for regional and country wise trend.
-  Line plot for DALY as a result of mental disorder by region
-  Line plot for DALY as a result of mental disorder by country
+  - Line plot for DALY as a result of mental disorder by region
+  - Line plot for DALY as a result of mental disorder by country
 4. Create line plot for percent of population with different disorders for countries such as USA, China, Japan, Germany, Comoros, Djibouti, Guinea-Bissau, Lesotho and Suriname, 
 5. Calculation of T-test for schizohprenia, Bipolar disorder, Eating disorders, Anxiety disorders, Drug use disorders, Depressive disorders, Alcohol use disorders and Disability-Adjusted Life Years for US and UK to compare the results.
 6.  Checking for top increasing disorder and top decreasing disorder by the country.
