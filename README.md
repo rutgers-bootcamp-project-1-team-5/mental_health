@@ -30,7 +30,7 @@ Jupyter notebook follows following sequence of code:
 # We have demonstarted Use of API to fetch kitten Images in the code.
 url used: https://api.thecatapi.com
 
-**Research Questions**
+# Research Questions
 
 1. Are wealthier countries mentally healthier than others?
 Based on first plot of disability adjusted life years, we could say that wealthier countries has more mental disorders than other poor countries. However we see that there is one odd observation. Suriname which is considered poor country has higher disability adjusted life years than other poor countries. Other factors could also affect this studies such as wealthy countries have the money to track the number of people that seek mental health which might not even been offered in poorer countries.
