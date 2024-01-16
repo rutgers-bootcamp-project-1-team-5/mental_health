@@ -14,7 +14,7 @@ Find any outliers
 Drop null and outliers from the dataset
 
 
-Jupyter notebook follows following sequence of code:
+# Jupyter notebook follows following sequence of code:
 1. Dependencies and setup- Importing modules and libraries
 2. Reading Data sets/csv file
 3. Plot a map to visually inspect DALY(Disability adjusted life years)for regional and country wise trend.
