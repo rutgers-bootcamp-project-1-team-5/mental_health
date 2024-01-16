@@ -23,8 +23,8 @@ Drop null and outliers from the dataset
 4. Create line plot for percent of population with different disorders for countries such as USA, China, Japan, Germany, Comoros, Djibouti, Guinea-Bissau, Lesotho and Suriname, 
 5. Calculation of T-test for schizohprenia, Bipolar disorder, Eating disorders, Anxiety disorders, Drug use disorders, Depressive disorders, Alcohol use disorders and Disability-Adjusted Life Years for US and UK to compare the results.
 6.  Checking for top increasing disorder and top decreasing disorder by the country.
-7.  plotting bar graph for trends of linearly correlated disorder prevalence. Linear regression method has been used to analyze top increasing and top decreasing disorder and to plot a bar garph.
-#All plots and images are saved in media folder.
+7.  plotting bar graph for trends of linearly correlated disorder prevalence. Linear regression method has been used to analyze top increasing and top decreasing disorder and to plot a bar garph.<br>
+# All plots and images are saved in media folder.
 
   
 # We have demonstarted Use of API to fetch kitten Images in the code.
